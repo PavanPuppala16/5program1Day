@@ -1,0 +1,8 @@
+C:\Users\PavanPuppala\source\repos\5program1Day\5program1Day\bin\Debug\5program1Day.exe.config
+C:\Users\PavanPuppala\source\repos\5program1Day\5program1Day\bin\Debug\5program1Day.exe
+C:\Users\PavanPuppala\source\repos\5program1Day\5program1Day\bin\Debug\5program1Day.pdb
+C:\Users\PavanPuppala\source\repos\5program1Day\5program1Day\obj\Debug\5program1Day.csproj.AssemblyReference.cache
+C:\Users\PavanPuppala\source\repos\5program1Day\5program1Day\obj\Debug\5program1Day.csproj.SuggestedBindingRedirects.cache
+C:\Users\PavanPuppala\source\repos\5program1Day\5program1Day\obj\Debug\5program1Day.csproj.CoreCompileInputs.cache
+C:\Users\PavanPuppala\source\repos\5program1Day\5program1Day\obj\Debug\5program1Day.exe
+C:\Users\PavanPuppala\source\repos\5program1Day\5program1Day\obj\Debug\5program1Day.pdb
